@@ -1,7 +1,6 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+exports.__esModule = true;
 function apiGetAllSongs(req, res) {
     res.status(200).json({ message: 'Hello Worlds}' });
 }
 exports.apiGetAllSongs = apiGetAllSongs;
-//# sourceMappingURL=apiSongs.js.map

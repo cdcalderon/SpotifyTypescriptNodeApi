@@ -1,0 +1,1 @@
+{"version":3,"file":"spotify-web-api-request.js","sourceRoot":"","sources":["spotify-web-api-request.ts"],"names":[],"mappings":";;AAAA,qDAAiD;AAEjD,IAAM,YAAY,GAAG,iBAAiB,EAClC,YAAY,GAAG,GAAG,EAClB,cAAc,GAAG,OAAO,CAAC;AAE7B,EAAE;AACF,2CAA2C;AAE3C;IACI,OAAO,IAAI,gCAAc,EAAE;SACtB,QAAQ,CAAC,YAAY,CAAC;SACtB,QAAQ,CAAC,YAAY,CAAC;SACtB,UAAU,CAAC,cAAc,CAAC,CAAC;AACpC,CAAC;AALD,sCAKC"}

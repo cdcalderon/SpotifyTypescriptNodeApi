@@ -1,0 +1,1 @@
+{"version":3,"file":"authentication-request.js","sourceRoot":"","sources":["authentication-request.ts"],"names":[],"mappings":";;AAAA,qDAAiD;AAEjD,IAAM,YAAY,GAAG,sBAAsB,EACvC,YAAY,GAAG,GAAG,EAClB,cAAc,GAAG,OAAO,CAAC;AAE7B,EAAE;AACF,2CAA2C;AAE3C;IACI,OAAO,IAAI,gCAAc,EAAE;SACtB,QAAQ,CAAC,YAAY,CAAC;SACtB,QAAQ,CAAC,YAAY,CAAC;SACtB,UAAU,CAAC,cAAc,CAAC,CAAC;AACpC,CAAC;AALD,sDAKC"}

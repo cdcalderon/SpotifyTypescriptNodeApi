@@ -146,7 +146,8 @@ app.get('/refresh_token', function(req, res) {
 app.get('/api/playlists', function (req, res) {
     let playlists = [];
     spotifyPlayListApi.getUserPlaylists(
-        'cdcalderon2', {
+        //'cdcalderon2', {
+        req.body.username, {
             limit: 50,
             offset: 0
         }).then(function (r: any) {
